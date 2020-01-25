@@ -15,7 +15,6 @@
 - Resend an activation code
 - Change password
 - Change email
-- Change profile
 - Multilingual: English, Russian, and Simplified Chinese
 
 
